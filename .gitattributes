@@ -1,2 +1,3 @@
 pc_11s.ply filter=lfs diff=lfs merge=lfs -text
 pc_20s.ply filter=lfs diff=lfs merge=lfs -text
+pc_11s-edit.ply filter=lfs diff=lfs merge=lfs -text
